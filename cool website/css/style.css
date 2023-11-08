@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 20%;
+}
+.navbar {
+    display: flex;
+
+}
+
+.nav-list {
+    width: 50%;
+    background-color: yellow    ;
+}
+
+.nav-list li {
+
+}
+
+.nav-list li a {
+
+}
+
+.rightNav {
+    background-color: blueviolet;
+    width: 50%;
+    text-align: right;
+}
